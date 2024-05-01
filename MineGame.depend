@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1705158245 source:c:\users\eldar\desktop\projektni programiranje\adventuregame\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"advgame.h"
+
+1705159098 c:\users\eldar\desktop\projektni programiranje\adventuregame\advgame.h
+
+1707850800 source:c:\users\eldar\onedrive\radna površina\projektni programiranje\adventuregame\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"advgame.h"
+
+1707850772 c:\users\eldar\onedrive\radna površina\projektni programiranje\adventuregame\advgame.h
+	<time.h>
+	<windows.h>
+
+1707850800 source:d:\projektni programiranje\adventuregame\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"advgame.h"
+
+1707850772 d:\projektni programiranje\adventuregame\advgame.h
+	<time.h>
+	<windows.h>
+
+1707850800 source:c:\users\administrator\desktop\minegame in c\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"advgame.h"
+
+1707850772 c:\users\administrator\desktop\minegame in c\advgame.h
+	<time.h>
+	<windows.h>
+
